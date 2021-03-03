@@ -7,6 +7,9 @@ Click the link below to start a Binder server that will allow you to run through
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Lyalpha/MPAGS_Data_Mining/HEAD?filepath=finding_qsos.ipynb)
 ## Acknowledgements
 
+The work done in the notebook closely mirrors the research described in 
+[Heintz et al. 2018](https://arxiv.org/pdf/1805.03394.pdf).
+
 This repo makes use of:
  * `astroquery` ([Ginsburg, Sipőcz, Brasseur et al. 2019](https://ui.adsabs.harvard.edu/abs/2019AJ....157...98G/abstract))
  * `astropy` ([Astropy Collaboration 2013](https://ui.adsabs.harvard.edu/abs/2013A%26A...558A..33A/abstract))
