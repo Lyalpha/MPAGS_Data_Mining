@@ -1,6 +1,6 @@
-# MPAGS Astrophysical Techniques - 5. Data Mining
+# WAKE - Data Mining
 
-Notebook and data resources for the MPAGS Data Mining course.
+Notebook and data resources for the WAKE Data Mining workshop.
 
 Click the link below to start a Binder server that will allow you to run through the notebook.
 
